@@ -1,0 +1,9 @@
+.posts-title {
+    text-align: center;
+}
+
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
